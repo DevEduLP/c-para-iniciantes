@@ -7,7 +7,7 @@ Construir uma base sólida em programação estruturada e gerenciamento de memó
 
 ## Conteúdo Programático
 
-- [ ] **Módulo 01:** Introdução à Linguagem C e Configuração do Ambiente (GCC / VS Code / Dev-C++)
+- [ ] **Módulo 01:** Introdução à Linguagem C 
 - [ ] **Módulo 02:** Variáveis, Tipos de Dados, Operadores e Entrada/Saída (`printf` e `scanf`)
 - [ ] **Módulo 03:** Estruturas Condicionais (`if`, `else`, `switch`)
 - [ ] **Módulo 04:** Estruturas de Repetição (`while`, `do-while`, `for`)
