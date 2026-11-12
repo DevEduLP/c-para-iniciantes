@@ -1,6 +1,6 @@
 # Guia Introdutório de Programação C para Iniciantes
 
-Material didático voltado para estudantes de Computação e Análise e Desenvolvimento de Sistemas (ADS), com explicações passo a passo, exemplos comentados e exercícios práticos.
+Material didático voltado para estudantes de Computação, com explicações passo a passo, exemplos comentados e exercícios práticos.
 
 ## Objetivo
 Construir uma base sólida em programação estruturada e gerenciamento de memória, partindo dos fundamentos da linguagem C até tópicos essenciais de baixo nível.
@@ -17,40 +17,6 @@ Construir uma base sólida em programação estruturada e gerenciamento de memó
 - [x] **Módulo 08:** [Estruturas (`struct`) e Tipos Definidos (`typedef`)](./08-structs/README.md)
 - [x] **Módulo 09:** [Manipulação de Arquivos em C (`fopen`, `fread`, `fwrite`, `fclose`)](./09-arquivos/README.md)
 
-## Estrutura do Repositório
-
-```text
-c-para-iniciantes/
-├── README.md
-├── 01-introducao/
-│   ├── README.md
-│   └── ola_mundo.c
-├── 02-variaveis-entrada-saida/
-│   ├── README.md
-│   └── entrada_saida.c
-├── 03-condicionais/
-│   ├── README.md
-│   └── condicionais.c
-├── 04-lacos-repeticao/
-│   ├── README.md
-│   └── lacos_repeticao.c
-├── 05-vetores-strings/
-│   ├── README.md
-│   └── vetores_strings.c
-├── 06-funcoes/
-│   ├── README.md
-│   └── funcoes.c
-├── 07-ponteiros-memoria/
-│   ├── README.md
-│   └── ponteiros_memoria.c
-├── 08-structs/
-│   ├── README.md
-│   └── structs.c
-└── 09-arquivos/
-    ├── README.md
-    └── arquivos.c
-```
-
 ## Como Compilar os Exemplos
 
 Todos os códigos seguem o padrão **C11** e podem ser compilados via terminal com o **GCC**:
@@ -61,5 +27,5 @@ gcc -Wall -Wextra -std=c11 arquivo.c -o programa
 ```
 
 ## Autor
-**Eduardo Livi Pedruzzi** — Estudante de Análise e Desenvolvimento de Sistemas (Unochapecó) | Pesquisador em Computação Aplicada e Sistemas de Baixo Nível.  
+**Eduardo Livi Pedruzzi** - Estudante de Análise e Desenvolvimento de Sistemas (Unochapecó) | Pesquisador em Computação Aplicada e Sistemas de Baixo Nível.  
 Portfólio Acadêmico: [eduardolivi.vercel.app](https://eduardolivi.vercel.app)
