@@ -1,6 +1,6 @@
 # Guia Introdutório de Programação C para Iniciantes
 
-Material didático em desenvolvimento voltado para estudantes de Computação e Análise e Desenvolvimento de Sistemas (ADS), com explicações passo a passo, exemplos comentados, capturas de tela e exercícios práticos.
+Material didático em desenvolvimento voltado para estudantes de Computação e Análise e Desenvolvimento de Sistemas (ADS), com explicações passo a passo, exemplos comentados e capturas de tela.
 
 ## Objetivo
 Construir uma base sólida em programação estruturada e gerenciamento de memória, partindo dos fundamentos da linguagem C até tópicos essenciais de baixo nível.
